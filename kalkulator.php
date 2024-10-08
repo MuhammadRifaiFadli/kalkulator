@@ -32,7 +32,7 @@
 
         .kalkulator {
             width: 335px;
-            background: #32a852;
+            background: aqua;
             margin: 100px auto;
             padding: 10px 20px 50px 20px;
             border-radius: 15px;
