@@ -2,6 +2,8 @@
 
 Proyek ini adalah aplikasi kalkulator sederhana yang dibuat menggunakan [PHP, HTML, CSS]. Aplikasi ini dirancang untuk melakukan operasi matematika dasar, termasuk penjumlahan, pengurangan, perkalian, dan pembagian.
 
+<img src="Screenshot_1.png">
+
 ## Fitur
 
 - **Penjumlahan**: Tambahkan dua atau lebih angka.
